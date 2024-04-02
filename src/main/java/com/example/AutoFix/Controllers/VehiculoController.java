@@ -1,2 +1,4 @@
-package com.example.AutoFix.Controllers;public class VehiculoController {
+package com.example.AutoFix.Controllers;
+
+public class VehiculoController {
 }

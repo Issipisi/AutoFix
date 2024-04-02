@@ -1,2 +1,4 @@
-package com.example.AutoFix.Entities;public class VehiculoEntity {
+package com.example.AutoFix.Entities;
+
+public class VehiculoEntity {
 }

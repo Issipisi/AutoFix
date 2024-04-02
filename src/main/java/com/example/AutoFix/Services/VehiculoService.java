@@ -1,2 +1,4 @@
-package com.example.AutoFix.Services;public class VehiculoService {
+package com.example.AutoFix.Services;
+
+public class VehiculoService {
 }
